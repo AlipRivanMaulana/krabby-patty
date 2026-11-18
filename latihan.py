@@ -1,0 +1,1 @@
+print("tua lu mpruy")
