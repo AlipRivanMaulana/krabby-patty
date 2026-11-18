@@ -1,1 +1,0 @@
-print("tua lu mpruy")
