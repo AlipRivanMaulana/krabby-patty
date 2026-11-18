@@ -1,0 +1,8 @@
+print("resep")
+print("-------------")
+print("tomat")
+print("timun")
+print("daging")
+print("saos")
+print("mustard")
+print("roti")
